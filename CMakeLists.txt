@@ -13,7 +13,6 @@ add_compile_options(-pedantic-errors -Wconversion)
 add_compile_options(-Wfatal-errors -Wnull-dereference)
 
 set (CMAKE_CXX_STANDARD 20)
-set (CMAKE_CXX_STANDARD 20)
 add_executable(socials main.cpp socials.cpp)
 
 install(TARGETS socials DESTINATION bin)
