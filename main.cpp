@@ -6,7 +6,3 @@ auto main( int argc , char **argv ) -> int {
   s->get_socials();
   return EXIT_SUCCESS;
 }
-
-
-
-
