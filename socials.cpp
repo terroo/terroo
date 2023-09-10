@@ -10,18 +10,18 @@ void Socials::set_socials(){
   m_adresses = {
     "44z9rw8","a4z9syS","74z9mOl","D4z94IU",
     "l4z9fWH","e4z9pTt","l4z9lrI","l4z9vrC",
-    "d4z9ASb","S4z9XQo","V4z9Tw2","h4z9FN1"
+    "d4z9ASb","S4z9XQo","h4z9FN1"
   };
 
   m_socials = {
     "Youtube", "Discord", "GitHub", "Facebook",
     "Reddit", "Twitter", "Pinterest", "Tumblr",
-    "VK", "TikTok", "LinkedIn", "Twitch"
+    "VK", "TikTok", "Twitch"
   };
 
   m_icons = {
     "▶️ ", "🎮", "🐱", "📚", "👽", "🐦", "🎨",
-    "🚀", "🧢", "🎵", "📝", "🎈"
+    "🚀", "🧢", "🎵", "🎈"
   };
 }
 void Socials::get_socials(){
