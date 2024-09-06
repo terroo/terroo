@@ -4,6 +4,7 @@ Socials::Socials(const std::string s) : m_cpp(s){
   m_https = "https";
   m_cutt  = "cutt";
   m_link  = {};
+  std::cout << "https://youtu.be/XdZlSfVLlsE" << '\n';
 }
 
 void Socials::set_socials(){
