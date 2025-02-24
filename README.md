@@ -5,6 +5,7 @@
 
 ---
 
-![terroo profile](https://github-stats-alpha.vercel.app/api?username=terroo&chart=activity&theme=default
+<iframe src="[demo_iframe.htm](https://github-stats-alpha.vercel.app/api?username=terroo&chart=activity&theme=default)" title="terroo profile"></iframe>
+
 
 <!--![SVG Animated](https://github.com/terroo/terroo/blob/main/profile-3d-contrib/profile-night-rainbow.svg)-->
